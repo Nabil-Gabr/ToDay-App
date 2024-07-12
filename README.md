@@ -17,10 +17,10 @@ Developing the "Today" app wasn't just about technical learning; it was an oppor
 #### Application Screens :
 
 <div>
-  <img width="245" alt="signup" src="https://github.com/user-attachments/assets/5a4aedcd-62cb-46df-986e-0ff636e04e83">
-  <img width="248" alt="login" src="https://github.com/user-attachments/assets/430848e3-7c75-4d41-85b3-28eaedcdbbf5">
-  <img width="249" alt="homePage" src="https://github.com/user-attachments/assets/9cf526d7-3587-4d25-b41e-c491ebee5e29">
-  <img width="243" alt="add task" src="https://github.com/user-attachments/assets/f3c702f4-6799-4c33-8c10-beab8db2d849">
-  <img width="245" alt="delelte" src="https://github.com/user-attachments/assets/9a4de7f6-59c7-4834-bcdf-83cf219510f2">
+  <img width="160" alt="signup" src="https://github.com/user-attachments/assets/5a4aedcd-62cb-46df-986e-0ff636e04e83">
+  <img width="160" alt="login" src="https://github.com/user-attachments/assets/430848e3-7c75-4d41-85b3-28eaedcdbbf5">
+  <img width="160" alt="homePage" src="https://github.com/user-attachments/assets/9cf526d7-3587-4d25-b41e-c491ebee5e29">
+  <img width="160" alt="add task" src="https://github.com/user-attachments/assets/f3c702f4-6799-4c33-8c10-beab8db2d849">
+  <img width="160" alt="delelte" src="https://github.com/user-attachments/assets/9a4de7f6-59c7-4834-bcdf-83cf219510f2">
 
 </div>
