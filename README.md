@@ -19,7 +19,8 @@ Developing the "Today" app wasn't just about technical learning; it was an oppor
 <div>
   <img width="150" alt="signup" src="https://github.com/user-attachments/assets/5a4aedcd-62cb-46df-986e-0ff636e04e83">
   <img width="150" alt="login" src="https://github.com/user-attachments/assets/430848e3-7c75-4d41-85b3-28eaedcdbbf5">
-  <img width="150" alt="homePage" src="https://github.com/user-attachments/assets/9cf526d7-3587-4d25-b41e-c491ebee5e29">
+  <img width="140" alt="homePage" src="https://github.com/user-attachments/assets/62af15c1-4488-4a2b-93ce-a4cbb53e1478">
+  <img width="140" alt="homePage" src="https://github.com/user-attachments/assets/7f3b8b64-da76-47c6-83d8-167b75e2f369">
   <img width="150" alt="add task" src="https://github.com/user-attachments/assets/f3c702f4-6799-4c33-8c10-beab8db2d849">
   <img width="150" alt="delelte" src="https://github.com/user-attachments/assets/9a4de7f6-59c7-4834-bcdf-83cf219510f2">
 
